@@ -7,29 +7,27 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="footer-section">
             <h3 className="text-xl font-bold mb-4">About Us</h3>
-            <div className="space-y-2">{/* About content placeholder */}</div>
+            <div className="space-y-2"></div>
           </div>
 
           <div className="footer-section">
             <h3 className="text-xl font-bold mb-4">Services</h3>
-            <div className="space-y-2">
-              {/* Services content placeholder */}
-            </div>
+            <div className="space-y-2"></div>
           </div>
 
           <div className="footer-section">
             <h3 className="text-xl font-bold mb-4">Contact</h3>
-            <div className="space-y-2">{/* Contact content placeholder */}</div>
+            <div className="space-y-2"></div>
           </div>
 
           <div className="footer-section">
             <h3 className="text-xl font-bold mb-4">Follow Us</h3>
-            <div className="space-y-2">{/* Social media placeholder */}</div>
+            <div className="space-y-2"></div>
           </div>
         </div>
 
         <div className="border-t border-gray-600 mt-8 pt-8 text-center">
-          <p>© {new Date().getFullYear()} Your Company. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} </p>
         </div>
       </div>
     </footer>
