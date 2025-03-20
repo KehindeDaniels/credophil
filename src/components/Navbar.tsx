@@ -95,7 +95,6 @@ const Nav = () => {
         </motion.div>
       </div>
 
-      {/* Only show the animation after the component has mounted */}
       {hasMounted && (
         <motion.div
           animate={{ height: mobileNavOpen ? "calc(100% - 90px)" : 0 }}
