@@ -1,6 +1,7 @@
 "use client";
 
 import Hero from "@/components/Hero";
+import HowItWorks from "@/components/HowItWorks";
 import Matrics from "@/components/Matric";
 import MovementSection from "@/components/Movement";
 import PetFlakesSection from "@/components/PlasticTypes";
@@ -18,6 +19,7 @@ const LandingPage = () => {
       <PetFlakesSection />
       <WhatWeStandFor />
       <Matrics />
+      <HowItWorks />
     </div>
   );
 };
