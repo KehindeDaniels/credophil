@@ -4,6 +4,7 @@ import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import Matrics from "@/components/Matric";
 import MovementSection from "@/components/Movement";
+import OurCommitment from "@/components/OurCommitment";
 import PetFlakesSection from "@/components/PlasticTypes";
 import WhatWeOffer from "@/components/WhatWeOffer";
 import WhatWeStandFor from "@/components/WhatWeStandFor";
@@ -22,6 +23,7 @@ const LandingPage = () => {
       <Matrics />
       <HowItWorks />
       <WhatWeOffer />
+      <OurCommitment />
     </div>
   );
 };

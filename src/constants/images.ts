@@ -10,6 +10,8 @@ const images = {
   COLLECT_SORT: "/images/collect-sort.jpg",
   PROCESS_RECYCLE: "/images/process-recycle.jpg",
   REPURPOSE_REUSE: "/images/repurpose-reuse.jpg",
+  COMMITMENT_LEFT: "/images/commitment-left.jpg",
+  COMMITMENT_RIGHT: "/images/commitment-right.jpg",
 };
 
 export default images;
