@@ -7,6 +7,7 @@ import Matrics from "@/components/Matric";
 import MovementSection from "@/components/Movement";
 import OurCommitment from "@/components/OurCommitment";
 import PetFlakesSection from "@/components/PlasticTypes";
+import Testimonials from "@/components/Testimonial";
 import WhatWeOffer from "@/components/WhatWeOffer";
 import WhatWeStandFor from "@/components/WhatWeStandFor";
 import AOS from "aos";
@@ -26,6 +27,7 @@ const LandingPage = () => {
       <WhatWeOffer />
       <OurCommitment />
       <GallerySection />
+      <Testimonials />
     </div>
   );
 };
