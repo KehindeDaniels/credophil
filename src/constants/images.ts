@@ -12,6 +12,12 @@ const images = {
   REPURPOSE_REUSE: "/images/repurpose-reuse.jpg",
   COMMITMENT_LEFT: "/images/commitment-left.jpg",
   COMMITMENT_RIGHT: "/images/commitment-right.jpg",
+
+  GALLERY_1: "/images/gallery-1.jpg",
+  GALLERY_2: "/images/gallery-2.jpg",
+  GALLERY_3: "/images/gallery-3.jpg",
+  GALLERY_4: "/images/gallery-4.jpg",
+  GALLERY_5: "/images/gallery-5.jpg",
 };
 
 export default images;

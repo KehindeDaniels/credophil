@@ -1,5 +1,6 @@
 "use client";
 
+import GallerySection from "@/components/GallerySection";
 import Hero from "@/components/Hero";
 import HowItWorks from "@/components/HowItWorks";
 import Matrics from "@/components/Matric";
@@ -24,6 +25,7 @@ const LandingPage = () => {
       <HowItWorks />
       <WhatWeOffer />
       <OurCommitment />
+      <GallerySection />
     </div>
   );
 };
